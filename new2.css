@@ -60,6 +60,7 @@ border-top: 0px;
 padding: 5px 25px 25px 25px;
 font-family: Calibri, Arial, sans-serif;
 font-size: 1.1em;
+overflow:auto;
 }
 #page_content a:visited {color: black; font-weight:normal; text-decoration: underline;}
 #page_content a:link {color: blue; font-weight:bold; text-decoration: underline;}
@@ -100,6 +101,23 @@ border: 2px solid #993333;
 #right_box h3 {margin:2px; text-align:center;}
 #right_box p {margin:2px; text-align:center; font-size:.9em;}
 #right_box img {border:0px;}
+
+#lower_box
+{
+position:relative;
+float:none;
+background:#ffffff;
+width:90%;
+max-width:600px;
+padding:10px;
+clear:left;
+border: 2px solid #993333;
+}
+
+#lower_box h3 {margin:2px; text-align:center;}
+#lower_box p {margin:2px; text-align:center; font-size:.9em;}
+#lower_box img {border:0px;}
+
 
 #dummy {float:left; clear:both;width:100%;}
 

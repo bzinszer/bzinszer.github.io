@@ -60,6 +60,7 @@ border-top: 0px;
 padding: 5px 25px 25px 25px;
 font-family: Calibri, Arial, sans-serif;
 font-size: 1.1em;
+line-height: 1.2em;
 overflow:auto;
 }
 #page_content a:visited {color: black; font-weight:normal; text-decoration: underline;}

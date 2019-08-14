@@ -63,8 +63,9 @@ font-size: 1.1em;
 line-height: 1.3em;
 overflow:auto;
 }
+#page_content p {margin: 0px 0px 15px;}
 #page_content a:visited {color: black; font-weight:normal; text-decoration: underline;}
-#page_content a:link {color: blue; font-weight:bold; text-decoration: underline;}
+#page_content a:link {color: blue; font-weight:normal; text-decoration: underline;}
 #page_content a:hover {text-decoration: none;}
 #page_content a:active {background: #CCCC99;}
 
